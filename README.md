@@ -1,7 +1,5 @@
 ## Welcome to my profile 😄
 
-<hr>
-
 <p style='font-size: 20px'>Hi, my name is Eric. I'm thirsty for learning but execution is most of the work so let's code.</p>
 
 <br>
